@@ -9,6 +9,7 @@ The solutions are in python, java, c and c++.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0005-longest-palindromic-substring) |
+| [0006-zigzag-conversion](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0006-zigzag-conversion) |
 | [0065-valid-number](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0065-valid-number) |
 ## Tree
 |  |

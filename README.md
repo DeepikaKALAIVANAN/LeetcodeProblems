@@ -20,4 +20,12 @@ The solutions are in python, java, c and c++.
 |  |
 | ------- |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1653-number-of-good-leaf-nodes-pairs) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->

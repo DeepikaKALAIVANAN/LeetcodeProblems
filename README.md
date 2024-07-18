@@ -14,6 +14,7 @@ The solutions are in python, java, c and c++.
 | [0010-regular-expression-matching](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0014-longest-common-prefix) |
 | [0065-valid-number](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0065-valid-number) |
 ## Tree
 |  |
@@ -83,4 +84,8 @@ The solutions are in python, java, c and c++.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0011-container-with-most-water) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->

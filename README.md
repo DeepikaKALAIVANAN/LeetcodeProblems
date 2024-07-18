@@ -41,6 +41,7 @@ The solutions are in python, java, c and c++.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0007-reverse-integer) |
 ## Recursion
 |  |
 | ------- |

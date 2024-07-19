@@ -22,6 +22,7 @@ The solutions are in python, java, c and c++.
 | [0140-word-break-ii](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0140-word-break-ii) |
 | [0678-valid-parenthesis-string](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0678-valid-parenthesis-string) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1321-get-equal-substrings-within-budget](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1321-get-equal-substrings-within-budget) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1720-crawler-log-folder](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1720-crawler-log-folder) |
 ## Tree
@@ -93,10 +94,12 @@ The solutions are in python, java, c and c++.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1321-get-equal-substrings-within-budget](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1321-get-equal-substrings-within-budget) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0004-median-of-two-sorted-arrays) |
+| [1321-get-equal-substrings-within-budget](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1321-get-equal-substrings-within-budget) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -165,6 +168,7 @@ The solutions are in python, java, c and c++.
 ## Prefix Sum
 |  |
 | ------- |
+| [1321-get-equal-substrings-within-budget](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1321-get-equal-substrings-within-budget) |
 | [2571-find-the-pivot-integer](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/2571-find-the-pivot-integer) |
 ## Backtracking
 |  |

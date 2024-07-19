@@ -27,6 +27,7 @@ The solutions are in python, java, c and c++.
 | [1381-maximum-score-words-formed-by-letters](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1720-crawler-log-folder](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1720-crawler-log-folder) |
+| [2572-append-characters-to-string-to-make-subsequence](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 ## Tree
 |  |
 | ------- |
@@ -120,6 +121,7 @@ The solutions are in python, java, c and c++.
 | [0042-trapping-rain-water](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0344-reverse-string) |
+| [2572-append-characters-to-string-to-make-subsequence](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -137,6 +139,7 @@ The solutions are in python, java, c and c++.
 | ------- |
 | [0011-container-with-most-water](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0011-container-with-most-water) |
 | [0678-valid-parenthesis-string](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0678-valid-parenthesis-string) |
+| [2572-append-characters-to-string-to-make-subsequence](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 ## Trie
 |  |
 | ------- |

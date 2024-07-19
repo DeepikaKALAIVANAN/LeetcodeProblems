@@ -60,6 +60,7 @@ The solutions are in python, java, c and c++.
 | [0330-patching-array](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0330-patching-array) |
 | [0506-relative-ranks](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0506-relative-ranks) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1293-three-consecutive-odds](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1293-three-consecutive-odds) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |

@@ -119,6 +119,7 @@ The solutions are in python, java, c and c++.
 | [0042-trapping-rain-water](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0042-trapping-rain-water) |
 | [0131-palindrome-partitioning](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0140-word-break-ii) |
+| [0552-student-attendance-record-ii](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0552-student-attendance-record-ii) |
 | [0678-valid-parenthesis-string](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0678-valid-parenthesis-string) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/2696-the-number-of-beautiful-subsets) |

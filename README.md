@@ -63,6 +63,7 @@ The solutions are in python, java, c and c++.
 | [0013-roman-to-integer](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0013-roman-to-integer) |
 | [1642-water-bottles](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2571-find-the-pivot-integer](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/2571-find-the-pivot-integer) |
 ## Recursion
 |  |
 | ------- |
@@ -125,4 +126,8 @@ The solutions are in python, java, c and c++.
 | ------- |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1720-crawler-log-folder) |
+## Prefix Sum
+|  |
+| ------- |
+| [2571-find-the-pivot-integer](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/2571-find-the-pivot-integer) |
 <!---LeetCode Topics End-->

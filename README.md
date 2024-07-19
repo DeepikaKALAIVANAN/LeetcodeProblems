@@ -24,6 +24,7 @@ The solutions are in python, java, c and c++.
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1321-get-equal-substrings-within-budget](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1321-get-equal-substrings-within-budget) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1381-maximum-score-words-formed-by-letters) |
+| [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1720-crawler-log-folder](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1720-crawler-log-folder) |
 ## Tree
 |  |
@@ -194,6 +195,7 @@ The solutions are in python, java, c and c++.
 |  |
 | ------- |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1381-maximum-score-words-formed-by-letters) |
+| [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 ## Bitmask
 |  |
 | ------- |

@@ -53,6 +53,7 @@ The solutions are in python, java, c and c++.
 | ------- |
 | [0002-add-two-numbers](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0234-palindrome-linked-list](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0234-palindrome-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -69,6 +70,7 @@ The solutions are in python, java, c and c++.
 | ------- |
 | [0002-add-two-numbers](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0010-regular-expression-matching) |
+| [0234-palindrome-linked-list](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0234-palindrome-linked-list) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Sliding Window
 |  |
@@ -90,6 +92,7 @@ The solutions are in python, java, c and c++.
 | [0015-3sum](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0234-palindrome-linked-list](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0234-palindrome-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -124,6 +127,7 @@ The solutions are in python, java, c and c++.
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0234-palindrome-linked-list) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1720-crawler-log-folder) |
 ## Prefix Sum

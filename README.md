@@ -86,6 +86,7 @@ The solutions are in python, java, c and c++.
 | [0002-add-two-numbers](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0234-palindrome-linked-list](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0234-palindrome-linked-list) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Math
 |  |
 | ------- |
@@ -176,6 +177,7 @@ The solutions are in python, java, c and c++.
 | ------- |
 | [1642-water-bottles](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Queue
 |  |
 | ------- |

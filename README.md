@@ -42,6 +42,7 @@ The solutions are in python, java, c and c++.
 | [0015-3sum](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0016-3sum-closest) |
 | [0041-first-missing-positive](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0042-trapping-rain-water) |
 | [0079-word-search](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0079-word-search) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1720-crawler-log-folder](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1720-crawler-log-folder) |
@@ -98,12 +99,14 @@ The solutions are in python, java, c and c++.
 | [0015-3sum](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0234-palindrome-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0010-regular-expression-matching) |
+| [0042-trapping-rain-water](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0042-trapping-rain-water) |
 | [0678-valid-parenthesis-string](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0678-valid-parenthesis-string) |
 ## Greedy
 |  |
@@ -136,6 +139,7 @@ The solutions are in python, java, c and c++.
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0234-palindrome-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0678-valid-parenthesis-string) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -148,4 +152,8 @@ The solutions are in python, java, c and c++.
 |  |
 | ------- |
 | [0079-word-search](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0079-word-search) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->

@@ -16,6 +16,7 @@ The solutions are in python, java, c and c++.
 | [0013-roman-to-integer](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0014-longest-common-prefix) |
 | [0065-valid-number](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0065-valid-number) |
+| [1720-crawler-log-folder](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1720-crawler-log-folder) |
 ## Tree
 |  |
 | ------- |
@@ -37,6 +38,7 @@ The solutions are in python, java, c and c++.
 | [0015-3sum](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0016-3sum-closest) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1720-crawler-log-folder](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1720-crawler-log-folder) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Hash Table
 |  |
@@ -115,4 +117,8 @@ The solutions are in python, java, c and c++.
 |  |
 | ------- |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1951-find-the-winner-of-the-circular-game) |
+## Stack
+|  |
+| ------- |
+| [1720-crawler-log-folder](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1720-crawler-log-folder) |
 <!---LeetCode Topics End-->

@@ -64,6 +64,7 @@ The solutions are in python, java, c and c++.
 | [0041-first-missing-positive](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0045-jump-game-ii) |
+| [0066-plus-one](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0066-plus-one) |
 | [0079-word-search](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -115,6 +116,7 @@ The solutions are in python, java, c and c++.
 | [0012-integer-to-roman](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0189-rotate-array) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1642-water-bottles](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1642-water-bottles) |

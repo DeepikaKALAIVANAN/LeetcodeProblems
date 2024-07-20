@@ -72,6 +72,7 @@ The solutions are in python, java, c and c++.
 | [1381-maximum-score-words-formed-by-letters](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
+| [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1720-crawler-log-folder) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/2696-the-number-of-beautiful-subsets) |
@@ -164,6 +165,7 @@ The solutions are in python, java, c and c++.
 | [0409-longest-palindrome](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0409-longest-palindrome) |
 | [0678-valid-parenthesis-string](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0678-valid-parenthesis-string) |
 | [1285-balance-a-binary-search-tree](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1285-balance-a-binary-search-tree) |
+| [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 ## Trie
 |  |
@@ -183,6 +185,7 @@ The solutions are in python, java, c and c++.
 | ------- |
 | [0079-word-search](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0079-word-search) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 ## Simulation
 |  |
 | ------- |

@@ -109,6 +109,7 @@ The solutions are in python, java, c and c++.
 | ------- |
 | [0002-add-two-numbers](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0023-merge-k-sorted-lists](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0023-merge-k-sorted-lists) |
 | [0234-palindrome-linked-list](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0234-palindrome-linked-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Math
@@ -153,6 +154,7 @@ The solutions are in python, java, c and c++.
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0023-merge-k-sorted-lists) |
 | [0169-majority-element](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0169-majority-element) |
 | [1285-balance-a-binary-search-tree](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1285-balance-a-binary-search-tree) |
 ## Two Pointers
@@ -259,6 +261,7 @@ The solutions are in python, java, c and c++.
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0023-merge-k-sorted-lists) |
 | [0506-relative-ranks](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0506-relative-ranks) |
 ## Combinatorics
 |  |
@@ -299,4 +302,8 @@ The solutions are in python, java, c and c++.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0169-majority-element) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->

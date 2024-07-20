@@ -63,6 +63,7 @@ The solutions are in python, java, c and c++.
 | [0041-first-missing-positive](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0042-trapping-rain-water) |
 | [0079-word-search](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0079-word-search) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0140-word-break-ii](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0140-word-break-ii) |
 | [0169-majority-element](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0169-majority-element) |
 | [0330-patching-array](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0330-patching-array) |
@@ -154,6 +155,7 @@ The solutions are in python, java, c and c++.
 | [0005-longest-palindromic-substring](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0010-regular-expression-matching) |
 | [0042-trapping-rain-water](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0042-trapping-rain-water) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0140-word-break-ii) |
 | [0552-student-attendance-record-ii](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0552-student-attendance-record-ii) |

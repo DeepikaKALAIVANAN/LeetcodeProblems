@@ -17,6 +17,7 @@ The solutions are in python, java, c and c++.
 | [0014-longest-common-prefix](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0065-valid-number) |
+| [0072-edit-distance](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0140-word-break-ii) |
@@ -162,6 +163,7 @@ The solutions are in python, java, c and c++.
 | [0010-regular-expression-matching](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0010-regular-expression-matching) |
 | [0042-trapping-rain-water](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0045-jump-game-ii) |
+| [0072-edit-distance](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0140-word-break-ii) |

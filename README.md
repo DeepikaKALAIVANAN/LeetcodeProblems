@@ -64,6 +64,7 @@ The solutions are in python, java, c and c++.
 | [0042-trapping-rain-water](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0042-trapping-rain-water) |
 | [0079-word-search](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0079-word-search) |
 | [0140-word-break-ii](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0140-word-break-ii) |
+| [0169-majority-element](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0169-majority-element) |
 | [0330-patching-array](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0330-patching-array) |
 | [0506-relative-ranks](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0506-relative-ranks) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -86,6 +87,7 @@ The solutions are in python, java, c and c++.
 | [0013-roman-to-integer](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0041-first-missing-positive) |
 | [0140-word-break-ii](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0140-word-break-ii) |
+| [0169-majority-element](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0169-majority-element) |
 | [0409-longest-palindrome](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0409-longest-palindrome) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1207-delete-nodes-and-return-forest](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1207-delete-nodes-and-return-forest) |
@@ -132,6 +134,7 @@ The solutions are in python, java, c and c++.
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0169-majority-element) |
 | [1285-balance-a-binary-search-tree](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1285-balance-a-binary-search-tree) |
 ## Two Pointers
 |  |
@@ -177,6 +180,7 @@ The solutions are in python, java, c and c++.
 | ------- |
 | [0015-3sum](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0016-3sum-closest) |
+| [0169-majority-element](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0169-majority-element) |
 | [0506-relative-ranks](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0506-relative-ranks) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2846-robot-collisions](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/2846-robot-collisions) |
@@ -263,4 +267,8 @@ The solutions are in python, java, c and c++.
 |  |
 | ------- |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->

@@ -15,6 +15,7 @@ The solutions are in python, java, c and c++.
 | [0012-integer-to-roman](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0014-longest-common-prefix) |
+| [0022-generate-parentheses](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0065-valid-number) |
 | [0072-edit-distance](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0072-edit-distance) |
@@ -176,6 +177,7 @@ The solutions are in python, java, c and c++.
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0010-regular-expression-matching) |
+| [0022-generate-parentheses](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0045-jump-game-ii) |
 | [0072-edit-distance](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0072-edit-distance) |
@@ -249,6 +251,7 @@ The solutions are in python, java, c and c++.
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0140-word-break-ii) |

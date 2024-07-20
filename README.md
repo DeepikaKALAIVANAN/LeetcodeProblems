@@ -16,6 +16,7 @@ The solutions are in python, java, c and c++.
 | [0013-roman-to-integer](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0065-valid-number) |
@@ -245,6 +246,7 @@ The solutions are in python, java, c and c++.
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0234-palindrome-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0678-valid-parenthesis-string) |

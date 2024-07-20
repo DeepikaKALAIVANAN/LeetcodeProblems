@@ -114,6 +114,7 @@ The solutions are in python, java, c and c++.
 | [0009-palindrome-number](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0189-rotate-array) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1642-water-bottles](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1642-water-bottles) |
@@ -125,6 +126,7 @@ The solutions are in python, java, c and c++.
 | ------- |
 | [0002-add-two-numbers](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0010-regular-expression-matching) |
+| [0050-powx-n](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0050-powx-n) |
 | [0234-palindrome-linked-list](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0234-palindrome-linked-list) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Sliding Window

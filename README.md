@@ -62,6 +62,7 @@ The solutions are in python, java, c and c++.
 | [0016-3sum-closest](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0016-3sum-closest) |
 | [0041-first-missing-positive](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0045-jump-game-ii) |
 | [0079-word-search](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -160,6 +161,7 @@ The solutions are in python, java, c and c++.
 | [0005-longest-palindromic-substring](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0010-regular-expression-matching) |
 | [0042-trapping-rain-water](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0045-jump-game-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0140-word-break-ii) |
@@ -171,6 +173,7 @@ The solutions are in python, java, c and c++.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0045-jump-game-ii) |
 | [0330-patching-array](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0330-patching-array) |
 | [0409-longest-palindrome](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0409-longest-palindrome) |
 | [0678-valid-parenthesis-string](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0678-valid-parenthesis-string) |

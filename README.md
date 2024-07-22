@@ -29,6 +29,7 @@ The solutions are in python, java, c and c++.
 | [0131-palindrome-partitioning](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0140-word-break-ii) |
 | [0344-reverse-string](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0409-longest-palindrome) |
 | [0678-valid-parenthesis-string](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0678-valid-parenthesis-string) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -199,6 +200,7 @@ The solutions are in python, java, c and c++.
 | [0189-rotate-array](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0392-is-subsequence) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 ## Dynamic Programming
 |  |
@@ -214,6 +216,7 @@ The solutions are in python, java, c and c++.
 | [0131-palindrome-partitioning](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0140-word-break-ii) |
 | [0322-coin-change](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0322-coin-change) |
+| [0392-is-subsequence](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0392-is-subsequence) |
 | [0552-student-attendance-record-ii](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0552-student-attendance-record-ii) |
 | [0678-valid-parenthesis-string](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0678-valid-parenthesis-string) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1381-maximum-score-words-formed-by-letters) |

@@ -29,6 +29,7 @@ The solutions are in python, java, c and c++.
 | [0131-palindrome-partitioning](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0140-word-break-ii) |
 | [0344-reverse-string](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0409-longest-palindrome) |
 | [0678-valid-parenthesis-string](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0678-valid-parenthesis-string) |
@@ -119,6 +120,7 @@ The solutions are in python, java, c and c++.
 | [0140-word-break-ii](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0409-longest-palindrome) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1207-delete-nodes-and-return-forest](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1207-delete-nodes-and-return-forest) |
@@ -348,6 +350,7 @@ The solutions are in python, java, c and c++.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0383-ransom-note) |
 ## Merge Sort
 |  |
 | ------- |

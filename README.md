@@ -25,6 +25,7 @@ The solutions are in python, java, c and c++.
 | [0065-valid-number](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0065-valid-number) |
 | [0072-edit-distance](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0079-word-search) |
+| [0125-valid-palindrome](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0140-word-break-ii) |
 | [0344-reverse-string](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0344-reverse-string) |
@@ -193,6 +194,7 @@ The solutions are in python, java, c and c++.
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0125-valid-palindrome](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0234-palindrome-linked-list) |

@@ -81,6 +81,7 @@ The solutions are in python, java, c and c++.
 | [0046-permutations](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0049-group-anagrams) |
+| [0055-jump-game](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0079-word-search) |
@@ -214,6 +215,7 @@ The solutions are in python, java, c and c++.
 | [0022-generate-parentheses](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0055-jump-game) |
 | [0072-edit-distance](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -230,6 +232,7 @@ The solutions are in python, java, c and c++.
 | ------- |
 | [0011-container-with-most-water](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0330-patching-array](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0330-patching-array) |
 | [0409-longest-palindrome](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0409-longest-palindrome) |

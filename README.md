@@ -91,6 +91,7 @@ The solutions are in python, java, c and c++.
 | [0140-word-break-ii](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0140-word-break-ii) |
 | [0169-majority-element](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0209-minimum-size-subarray-sum) |
 | [0322-coin-change](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0322-coin-change) |
 | [0330-patching-array](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0330-patching-array) |
 | [0506-relative-ranks](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0506-relative-ranks) |
@@ -172,6 +173,7 @@ The solutions are in python, java, c and c++.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0209-minimum-size-subarray-sum](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0209-minimum-size-subarray-sum) |
 | [1321-get-equal-substrings-within-budget](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1321-get-equal-substrings-within-budget) |
 ## Binary Search
 |  |
@@ -181,6 +183,7 @@ The solutions are in python, java, c and c++.
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0074-search-a-2d-matrix) |
+| [0209-minimum-size-subarray-sum](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0209-minimum-size-subarray-sum) |
 | [1321-get-equal-substrings-within-budget](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1321-get-equal-substrings-within-budget) |
 ## Divide and Conquer
 |  |
@@ -290,6 +293,7 @@ The solutions are in python, java, c and c++.
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0209-minimum-size-subarray-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1321-get-equal-substrings-within-budget](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1321-get-equal-substrings-within-budget) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |

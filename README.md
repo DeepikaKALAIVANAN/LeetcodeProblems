@@ -99,6 +99,7 @@ The solutions are in python, java, c and c++.
 | [1016-subarray-sums-divisible-by-k](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1207-delete-nodes-and-return-forest](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1207-delete-nodes-and-return-forest) |
 | [1293-three-consecutive-odds](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1293-three-consecutive-odds) |
+| [1333-sort-the-jumbled-numbers](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1333-sort-the-jumbled-numbers) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
@@ -259,6 +260,7 @@ The solutions are in python, java, c and c++.
 | [0049-group-anagrams](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0169-majority-element) |
 | [0506-relative-ranks](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0506-relative-ranks) |
+| [1333-sort-the-jumbled-numbers](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1333-sort-the-jumbled-numbers) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2846-robot-collisions](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/2846-robot-collisions) |

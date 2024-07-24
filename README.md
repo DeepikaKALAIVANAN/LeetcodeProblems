@@ -90,6 +90,7 @@ The solutions are in python, java, c and c++.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0140-word-break-ii](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0140-word-break-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0209-minimum-size-subarray-sum) |
@@ -188,6 +189,7 @@ The solutions are in python, java, c and c++.
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0074-search-a-2d-matrix) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0209-minimum-size-subarray-sum) |
 | [1321-get-equal-substrings-within-budget](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1321-get-equal-substrings-within-budget) |
 ## Divide and Conquer
@@ -210,6 +212,7 @@ The solutions are in python, java, c and c++.
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0141-linked-list-cycle) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0344-reverse-string) |

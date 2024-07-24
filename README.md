@@ -93,6 +93,7 @@ The solutions are in python, java, c and c++.
 | [0169-majority-element](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0209-minimum-size-subarray-sum) |
+| [0228-summary-ranges](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0228-summary-ranges) |
 | [0322-coin-change](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0322-coin-change) |
 | [0330-patching-array](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0330-patching-array) |
 | [0506-relative-ranks](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0506-relative-ranks) |

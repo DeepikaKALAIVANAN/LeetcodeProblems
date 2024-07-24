@@ -44,6 +44,7 @@ The solutions are in python, java, c and c++.
 ## Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1207-delete-nodes-and-return-forest) |
 | [1285-balance-a-binary-search-tree](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1285-balance-a-binary-search-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1653-number-of-good-leaf-nodes-pairs) |
@@ -51,6 +52,7 @@ The solutions are in python, java, c and c++.
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1207-delete-nodes-and-return-forest) |
 | [1285-balance-a-binary-search-tree](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1285-balance-a-binary-search-tree) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
@@ -59,6 +61,7 @@ The solutions are in python, java, c and c++.
 ## Binary Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1207-delete-nodes-and-return-forest) |
 | [1285-balance-a-binary-search-tree](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1285-balance-a-binary-search-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1653-number-of-good-leaf-nodes-pairs) |
@@ -353,6 +356,7 @@ The solutions are in python, java, c and c++.
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0322-coin-change](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0322-coin-change) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Graph

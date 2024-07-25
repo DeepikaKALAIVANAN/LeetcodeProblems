@@ -45,6 +45,7 @@ The solutions are in python, java, c and c++.
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1207-delete-nodes-and-return-forest) |
 | [1285-balance-a-binary-search-tree](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1285-balance-a-binary-search-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1653-number-of-good-leaf-nodes-pairs) |
@@ -62,6 +63,7 @@ The solutions are in python, java, c and c++.
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1207-delete-nodes-and-return-forest) |
 | [1285-balance-a-binary-search-tree](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1285-balance-a-binary-search-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1653-number-of-good-leaf-nodes-pairs) |
@@ -90,6 +92,7 @@ The solutions are in python, java, c and c++.
 | [0074-search-a-2d-matrix](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0140-word-break-ii](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0140-word-break-ii) |
@@ -201,6 +204,7 @@ The solutions are in python, java, c and c++.
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0023-merge-k-sorted-lists) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0169-majority-element) |
 | [0948-sort-an-array](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0948-sort-an-array) |
 | [1285-balance-a-binary-search-tree](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1285-balance-a-binary-search-tree) |
@@ -356,6 +360,7 @@ The solutions are in python, java, c and c++.
 ## Binary Search Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1285-balance-a-binary-search-tree) |
 ## Breadth-First Search
 |  |

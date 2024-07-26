@@ -30,6 +30,7 @@ The solutions are in python, java, c and c++.
 | [0131-palindrome-partitioning](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0140-word-break-ii) |
 | [0205-isomorphic-strings](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0205-isomorphic-strings) |
+| [0290-word-pattern](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0392-is-subsequence) |
@@ -137,6 +138,7 @@ The solutions are in python, java, c and c++.
 | [0141-linked-list-cycle](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0205-isomorphic-strings) |
+| [0290-word-pattern](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0409-longest-palindrome) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1016-subarray-sums-divisible-by-k) |

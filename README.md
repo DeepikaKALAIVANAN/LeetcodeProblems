@@ -377,10 +377,12 @@ The solutions are in python, java, c and c++.
 | [0104-maximum-depth-of-binary-tree](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0322-coin-change](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0322-coin-change) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [2171-second-minimum-time-to-reach-destination](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/2171-second-minimum-time-to-reach-destination) |
 ## Graph
 |  |
 | ------- |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [2171-second-minimum-time-to-reach-destination](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2472-build-a-matrix-with-conditions](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/2472-build-a-matrix-with-conditions) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Topological Sort
@@ -417,5 +419,6 @@ The solutions are in python, java, c and c++.
 ## Shortest Path
 |  |
 | ------- |
+| [2171-second-minimum-time-to-reach-destination](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/3235-minimum-cost-to-convert-string-i) |
 <!---LeetCode Topics End-->

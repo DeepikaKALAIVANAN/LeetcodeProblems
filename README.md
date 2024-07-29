@@ -115,6 +115,7 @@ The solutions are in python, java, c and c++.
 | [1333-sort-the-jumbled-numbers](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1333-sort-the-jumbled-numbers) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1511-count-number-of-teams](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1511-count-number-of-teams) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1720-crawler-log-folder) |
@@ -254,6 +255,7 @@ The solutions are in python, java, c and c++.
 | [0552-student-attendance-record-ii](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0552-student-attendance-record-ii) |
 | [0678-valid-parenthesis-string](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0678-valid-parenthesis-string) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1381-maximum-score-words-formed-by-letters) |
+| [1511-count-number-of-teams](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1511-count-number-of-teams) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/2696-the-number-of-beautiful-subsets) |
 ## Greedy
 |  |
@@ -421,4 +423,8 @@ The solutions are in python, java, c and c++.
 | ------- |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/3235-minimum-cost-to-convert-string-i) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [1511-count-number-of-teams](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1511-count-number-of-teams) |
 <!---LeetCode Topics End-->

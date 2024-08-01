@@ -23,6 +23,7 @@ The solutions are in python, java, c and c++.
 | [0049-group-anagrams](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0065-valid-number) |
+| [0068-text-justification](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0068-text-justification) |
 | [0072-edit-distance](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0079-word-search) |
@@ -95,6 +96,7 @@ The solutions are in python, java, c and c++.
 | [0049-group-anagrams](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0066-plus-one) |
+| [0068-text-justification](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0068-text-justification) |
 | [0074-search-a-2d-matrix](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -308,6 +310,7 @@ The solutions are in python, java, c and c++.
 ## Simulation
 |  |
 | ------- |
+| [0068-text-justification](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0068-text-justification) |
 | [1642-water-bottles](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/2299-merge-nodes-in-between-zeros) |

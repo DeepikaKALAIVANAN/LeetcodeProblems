@@ -44,6 +44,7 @@ The solutions are in python, java, c and c++.
 | [1720-crawler-log-folder](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1720-crawler-log-folder) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/2572-append-characters-to-string-to-make-subsequence) |
+| [2727-number-of-senior-citizens](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/2727-number-of-senior-citizens) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Tree
 |  |
@@ -124,6 +125,7 @@ The solutions are in python, java, c and c++.
 | [1951-find-the-winner-of-the-circular-game](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2472-build-a-matrix-with-conditions](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/2472-build-a-matrix-with-conditions) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/2696-the-number-of-beautiful-subsets) |
+| [2727-number-of-senior-citizens](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/2727-number-of-senior-citizens) |
 | [2846-robot-collisions](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/2846-robot-collisions) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Hash Table

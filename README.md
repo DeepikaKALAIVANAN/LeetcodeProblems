@@ -109,6 +109,7 @@ The solutions are in python, java, c and c++.
 | [0189-rotate-array](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0209-minimum-size-subarray-sum) |
 | [0228-summary-ranges](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0228-summary-ranges) |
+| [0238-product-of-array-except-self](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0274-h-index) |
 | [0322-coin-change](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0322-coin-change) |
 | [0330-patching-array](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0330-patching-array) |
@@ -338,6 +339,7 @@ The solutions are in python, java, c and c++.
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0209-minimum-size-subarray-sum) |
+| [0238-product-of-array-except-self](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0238-product-of-array-except-self) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1321-get-equal-substrings-within-budget](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1321-get-equal-substrings-within-budget) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |

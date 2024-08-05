@@ -104,6 +104,7 @@ The solutions are in python, java, c and c++.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0135-candy) |
 | [0140-word-break-ii](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0140-word-break-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0169-majority-element) |
@@ -279,6 +280,7 @@ The solutions are in python, java, c and c++.
 | [0055-jump-game](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0135-candy) |
 | [0330-patching-array](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0330-patching-array) |
 | [0409-longest-palindrome](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0409-longest-palindrome) |
 | [0678-valid-parenthesis-string](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0678-valid-parenthesis-string) |

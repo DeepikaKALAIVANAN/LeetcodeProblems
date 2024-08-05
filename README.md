@@ -53,6 +53,7 @@ The solutions are in python, java, c and c++.
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [1207-delete-nodes-and-return-forest](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1207-delete-nodes-and-return-forest) |
 | [1285-balance-a-binary-search-tree](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1285-balance-a-binary-search-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1653-number-of-good-leaf-nodes-pairs) |
@@ -61,6 +62,7 @@ The solutions are in python, java, c and c++.
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [1207-delete-nodes-and-return-forest](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1207-delete-nodes-and-return-forest) |
 | [1285-balance-a-binary-search-tree](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1285-balance-a-binary-search-tree) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
@@ -71,6 +73,7 @@ The solutions are in python, java, c and c++.
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [1207-delete-nodes-and-return-forest](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1207-delete-nodes-and-return-forest) |
 | [1285-balance-a-binary-search-tree](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1285-balance-a-binary-search-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1653-number-of-good-leaf-nodes-pairs) |
@@ -392,12 +395,14 @@ The solutions are in python, java, c and c++.
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [1285-balance-a-binary-search-tree](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1285-balance-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0322-coin-change](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0322-coin-change) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/2171-second-minimum-time-to-reach-destination) |
 ## Graph

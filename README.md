@@ -100,6 +100,7 @@ The solutions are in python, java, c and c++.
 | [0046-permutations](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0068-text-justification) |
@@ -232,6 +233,7 @@ The solutions are in python, java, c and c++.
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0169-majority-element) |
 | [0948-sort-an-array](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0948-sort-an-array) |
@@ -264,6 +266,7 @@ The solutions are in python, java, c and c++.
 | [0022-generate-parentheses](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0055-jump-game) |
 | [0072-edit-distance](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |

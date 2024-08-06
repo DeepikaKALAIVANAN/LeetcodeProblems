@@ -125,6 +125,7 @@ The solutions are in python, java, c and c++.
 | [0380-insert-delete-getrandom-o1](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0506-relative-ranks](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0506-relative-ranks) |
 | [0948-sort-an-array](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0948-sort-an-array) |
+| [0954-maximum-sum-circular-subarray](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0954-maximum-sum-circular-subarray) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1196-filling-bookcase-shelves](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1207-delete-nodes-and-return-forest) |
@@ -237,6 +238,7 @@ The solutions are in python, java, c and c++.
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0169-majority-element) |
 | [0948-sort-an-array](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0948-sort-an-array) |
+| [0954-maximum-sum-circular-subarray](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0954-maximum-sum-circular-subarray) |
 | [1285-balance-a-binary-search-tree](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1285-balance-a-binary-search-tree) |
 ## Two Pointers
 |  |
@@ -277,6 +279,7 @@ The solutions are in python, java, c and c++.
 | [0392-is-subsequence](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0392-is-subsequence) |
 | [0552-student-attendance-record-ii](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0552-student-attendance-record-ii) |
 | [0678-valid-parenthesis-string](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0678-valid-parenthesis-string) |
+| [0954-maximum-sum-circular-subarray](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0954-maximum-sum-circular-subarray) |
 | [1196-filling-bookcase-shelves](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1196-filling-bookcase-shelves) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1511-count-number-of-teams](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1511-count-number-of-teams) |
@@ -337,6 +340,7 @@ The solutions are in python, java, c and c++.
 ## Queue
 |  |
 | ------- |
+| [0954-maximum-sum-circular-subarray](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0954-maximum-sum-circular-subarray) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Stack
 |  |
@@ -468,4 +472,8 @@ The solutions are in python, java, c and c++.
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0380-insert-delete-getrandom-o1) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0954-maximum-sum-circular-subarray](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0954-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->

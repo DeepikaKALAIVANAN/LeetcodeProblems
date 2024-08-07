@@ -101,6 +101,7 @@ The solutions are in python, java, c and c++.
 | [0048-rotate-image](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0068-text-justification) |
@@ -324,6 +325,7 @@ The solutions are in python, java, c and c++.
 | ------- |
 | [0036-valid-sudoku](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0079-word-search) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -332,6 +334,7 @@ The solutions are in python, java, c and c++.
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0054-spiral-matrix) |
 | [0068-text-justification](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0068-text-justification) |
 | [1642-water-bottles](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1951-find-the-winner-of-the-circular-game) |

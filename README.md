@@ -105,6 +105,7 @@ The solutions are in python, java, c and c++.
 | [0055-jump-game](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0068-text-justification) |
+| [0073-set-matrix-zeroes](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -158,6 +159,7 @@ The solutions are in python, java, c and c++.
 | [0036-valid-sudoku](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0076-minimum-window-substring) |
 | [0140-word-break-ii](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0141-linked-list-cycle) |
@@ -327,6 +329,7 @@ The solutions are in python, java, c and c++.
 | [0036-valid-sudoku](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0079-word-search) |
 | [0289-game-of-life](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0289-game-of-life) |

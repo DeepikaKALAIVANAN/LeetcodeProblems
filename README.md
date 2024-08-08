@@ -164,6 +164,7 @@ The solutions are in python, java, c and c++.
 | [0140-word-break-ii](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0290-word-pattern) |
@@ -198,6 +199,7 @@ The solutions are in python, java, c and c++.
 | [0050-powx-n](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0202-happy-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0380-insert-delete-getrandom-o1) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1642-water-bottles](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1642-water-bottles) |
@@ -260,6 +262,7 @@ The solutions are in python, java, c and c++.
 | [0151-reverse-words-in-a-string](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0392-is-subsequence) |

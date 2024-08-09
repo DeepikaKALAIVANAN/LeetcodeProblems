@@ -112,6 +112,7 @@ The solutions are in python, java, c and c++.
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0135-candy) |
 | [0140-word-break-ii](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0140-word-break-ii) |
@@ -162,6 +163,7 @@ The solutions are in python, java, c and c++.
 | [0049-group-anagrams](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0076-minimum-window-substring) |
+| [0128-longest-consecutive-sequence](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0128-longest-consecutive-sequence) |
 | [0140-word-break-ii](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0169-majority-element) |
@@ -491,4 +493,8 @@ The solutions are in python, java, c and c++.
 |  |
 | ------- |
 | [0954-maximum-sum-circular-subarray](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0954-maximum-sum-circular-subarray) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->

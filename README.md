@@ -130,6 +130,7 @@ The solutions are in python, java, c and c++.
 | [0380-insert-delete-getrandom-o1](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0506-relative-ranks](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0506-relative-ranks) |
+| [0624-maximum-distance-in-arrays](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0624-maximum-distance-in-arrays) |
 | [0948-sort-an-array](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0948-sort-an-array) |
 | [0954-maximum-sum-circular-subarray](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0954-maximum-sum-circular-subarray) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -309,6 +310,7 @@ The solutions are in python, java, c and c++.
 | [0330-patching-array](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0330-patching-array) |
 | [0409-longest-palindrome](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0409-longest-palindrome) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0624-maximum-distance-in-arrays](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0624-maximum-distance-in-arrays) |
 | [0678-valid-parenthesis-string](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0678-valid-parenthesis-string) |
 | [1285-balance-a-binary-search-tree](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1285-balance-a-binary-search-tree) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |

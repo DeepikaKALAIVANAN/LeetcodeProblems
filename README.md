@@ -146,6 +146,7 @@ The solutions are in python, java, c and c++.
 | [1720-crawler-log-folder](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2067-maximum-number-of-points-with-cost](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2472-build-a-matrix-with-conditions](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/2472-build-a-matrix-with-conditions) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2727-number-of-senior-citizens](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/2727-number-of-senior-citizens) |
@@ -297,6 +298,7 @@ The solutions are in python, java, c and c++.
 | [1196-filling-bookcase-shelves](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1196-filling-bookcase-shelves) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1511-count-number-of-teams](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1511-count-number-of-teams) |
+| [2067-maximum-number-of-points-with-cost](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/2696-the-number-of-beautiful-subsets) |
 ## Greedy
 |  |

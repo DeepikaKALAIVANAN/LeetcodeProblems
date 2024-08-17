@@ -24,6 +24,7 @@ The solutions are in python, java, c and c++.
 | [0058-length-of-last-word](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0065-valid-number) |
 | [0068-text-justification](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0068-text-justification) |
+| [0071-simplify-path](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0079-word-search) |
@@ -371,6 +372,7 @@ The solutions are in python, java, c and c++.
 | ------- |
 | [0020-valid-parentheses](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0071-simplify-path) |
 | [0234-palindrome-linked-list](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0234-palindrome-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0678-valid-parenthesis-string) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |

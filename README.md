@@ -211,6 +211,7 @@ The solutions are in python, java, c and c++.
 | [0202-happy-number](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0202-happy-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0380-insert-delete-getrandom-o1) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
+| [1585-the-kth-factor-of-n](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1585-the-kth-factor-of-n) |
 | [1642-water-bottles](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2571-find-the-pivot-integer](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/2571-find-the-pivot-integer) |
@@ -508,4 +509,8 @@ The solutions are in python, java, c and c++.
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0128-longest-consecutive-sequence) |
+## Number Theory
+|  |
+| ------- |
+| [1585-the-kth-factor-of-n](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1585-the-kth-factor-of-n) |
 <!---LeetCode Topics End-->

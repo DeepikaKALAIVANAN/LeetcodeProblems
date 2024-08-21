@@ -127,6 +127,7 @@ The solutions are in python, java, c and c++.
 | [0228-summary-ranges](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0274-h-index) |
+| [0283-move-zeroes](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0283-move-zeroes) |
 | [0289-game-of-life](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0289-game-of-life) |
 | [0322-coin-change](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0322-coin-change) |
 | [0330-patching-array](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0330-patching-array) |
@@ -277,6 +278,7 @@ The solutions are in python, java, c and c++.
 | [0189-rotate-array](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0392-is-subsequence) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/2572-append-characters-to-string-to-make-subsequence) |

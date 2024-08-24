@@ -146,6 +146,7 @@ The solutions are in python, java, c and c++.
 | [1496-lucky-numbers-in-a-matrix](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1511-count-number-of-teams](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1511-count-number-of-teams) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
+| [1693-sum-of-all-odd-length-subarrays](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -215,6 +216,7 @@ The solutions are in python, java, c and c++.
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1585-the-kth-factor-of-n](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1585-the-kth-factor-of-n) |
 | [1642-water-bottles](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1642-water-bottles) |
+| [1693-sum-of-all-odd-length-subarrays](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2571-find-the-pivot-integer](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/2571-find-the-pivot-integer) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/2696-the-number-of-beautiful-subsets) |
@@ -393,6 +395,7 @@ The solutions are in python, java, c and c++.
 | [1016-subarray-sums-divisible-by-k](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1321-get-equal-substrings-within-budget](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1321-get-equal-substrings-within-budget) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
+| [1693-sum-of-all-odd-length-subarrays](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [2571-find-the-pivot-integer](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/2571-find-the-pivot-integer) |
 ## Backtracking
 |  |

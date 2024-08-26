@@ -57,6 +57,7 @@ The solutions are in python, java, c and c++.
 | [0145-binary-tree-postorder-traversal](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1207-delete-nodes-and-return-forest](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1207-delete-nodes-and-return-forest) |
 | [1285-balance-a-binary-search-tree](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1285-balance-a-binary-search-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1653-number-of-good-leaf-nodes-pairs) |
@@ -68,6 +69,7 @@ The solutions are in python, java, c and c++.
 | [0145-binary-tree-postorder-traversal](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1207-delete-nodes-and-return-forest](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1207-delete-nodes-and-return-forest) |
 | [1285-balance-a-binary-search-tree](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1285-balance-a-binary-search-tree) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
@@ -390,6 +392,7 @@ The solutions are in python, java, c and c++.
 | [0145-binary-tree-postorder-traversal](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0234-palindrome-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0678-valid-parenthesis-string) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1720-crawler-log-folder) |
 | [2846-robot-collisions](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/2846-robot-collisions) |

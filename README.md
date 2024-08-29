@@ -22,6 +22,7 @@ The solutions are in python, java, c and c++.
 | [0030-substring-with-concatenation-of-all-words](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0065-valid-number) |
@@ -227,6 +228,7 @@ The solutions are in python, java, c and c++.
 | [0012-integer-to-roman](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0066-plus-one) |
@@ -394,6 +396,7 @@ The solutions are in python, java, c and c++.
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0054-spiral-matrix) |
 | [0068-text-justification](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0068-text-justification) |
 | [0289-game-of-life](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0289-game-of-life) |

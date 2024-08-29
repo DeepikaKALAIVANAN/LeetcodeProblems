@@ -21,6 +21,7 @@ The solutions are in python, java, c and c++.
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0032-longest-valid-parentheses) |
+| [0038-count-and-say](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0065-valid-number) |

@@ -149,6 +149,7 @@ The solutions are in python, java, c and c++.
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0506-relative-ranks](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0506-relative-ranks) |
 | [0624-maximum-distance-in-arrays](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0624-maximum-distance-in-arrays) |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0948-sort-an-array](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0948-sort-an-array) |
 | [0954-maximum-sum-circular-subarray](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0954-maximum-sum-circular-subarray) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1016-subarray-sums-divisible-by-k) |

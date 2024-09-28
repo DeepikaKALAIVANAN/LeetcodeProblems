@@ -11,8 +11,9 @@
 class Solution {
     public ListNode middleNode(ListNode head) {
         // using two pointer slow and fast 
-        ListNode slow = head;
-        ListNode fast = head;
+        ListNode slow = head; // slow moves one by one
+        ListNode fast = head; // fast skips one and moves to next
+        // slow is moved to half the length of fast
         while(fast != null && fast.next != null){
             slow = slow.next;
             fast = fast.next.next;

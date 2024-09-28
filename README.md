@@ -219,6 +219,7 @@ The solutions are in python, java, c and c++.
 | [0024-swap-nodes-in-pairs](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0025-reverse-nodes-in-k-group) |
 | [0141-linked-list-cycle](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0141-linked-list-cycle) |
+| [0206-reverse-linked-list](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0908-middle-of-the-linked-list) |
@@ -256,6 +257,7 @@ The solutions are in python, java, c and c++.
 | [0025-reverse-nodes-in-k-group](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0234-palindrome-linked-list) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Sliding Window

@@ -220,6 +220,7 @@ The solutions are in python, java, c and c++.
 | [0025-reverse-nodes-in-k-group](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0025-reverse-nodes-in-k-group) |
 | [0141-linked-list-cycle](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0234-palindrome-linked-list) |
+| [0237-delete-node-in-a-linked-list](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0237-delete-node-in-a-linked-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Math
 |  |

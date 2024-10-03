@@ -56,6 +56,7 @@ The solutions are in python, java, c and c++.
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -71,6 +72,7 @@ The solutions are in python, java, c and c++.
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0226-invert-binary-tree) |
@@ -85,6 +87,7 @@ The solutions are in python, java, c and c++.
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -507,6 +510,7 @@ The solutions are in python, java, c and c++.
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0226-invert-binary-tree) |

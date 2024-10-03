@@ -64,6 +64,7 @@ The solutions are in python, java, c and c++.
 | [0226-invert-binary-tree](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0226-invert-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0775-n-ary-tree-preorder-traversal](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1207-delete-nodes-and-return-forest](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1207-delete-nodes-and-return-forest) |
 | [1285-balance-a-binary-search-tree](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1285-balance-a-binary-search-tree) |
@@ -78,6 +79,7 @@ The solutions are in python, java, c and c++.
 | [0226-invert-binary-tree](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0226-invert-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0775-n-ary-tree-preorder-traversal](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1207-delete-nodes-and-return-forest](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1207-delete-nodes-and-return-forest) |
 | [1285-balance-a-binary-search-tree](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1285-balance-a-binary-search-tree) |
@@ -441,6 +443,7 @@ The solutions are in python, java, c and c++.
 | [0145-binary-tree-postorder-traversal](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0234-palindrome-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0678-valid-parenthesis-string) |
+| [0775-n-ary-tree-preorder-traversal](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1720-crawler-log-folder) |

@@ -172,6 +172,7 @@ The solutions are in python, java, c and c++.
 | [0948-sort-an-array](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0948-sort-an-array) |
 | [0954-maximum-sum-circular-subarray](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0954-maximum-sum-circular-subarray) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1036-rotting-oranges](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1036-rotting-oranges) |
 | [1196-filling-bookcase-shelves](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1207-delete-nodes-and-return-forest) |
 | [1293-three-consecutive-odds](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1293-three-consecutive-odds) |
@@ -420,6 +421,7 @@ The solutions are in python, java, c and c++.
 | [0079-word-search](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0200-number-of-islands) |
 | [0289-game-of-life](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0289-game-of-life) |
+| [1036-rotting-oranges](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1036-rotting-oranges) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2472-build-a-matrix-with-conditions](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/2472-build-a-matrix-with-conditions) |
@@ -531,6 +533,7 @@ The solutions are in python, java, c and c++.
 | [0530-minimum-absolute-difference-in-bst](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0813-all-paths-from-source-to-target](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0813-all-paths-from-source-to-target) |
+| [1036-rotting-oranges](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1036-rotting-oranges) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/2171-second-minimum-time-to-reach-destination) |
 ## Graph

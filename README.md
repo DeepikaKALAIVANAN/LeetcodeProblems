@@ -82,6 +82,7 @@ The solutions are in python, java, c and c++.
 | [0226-invert-binary-tree](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0226-invert-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0744-network-delay-time](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0744-network-delay-time) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0813-all-paths-from-source-to-target](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0813-all-paths-from-source-to-target) |
@@ -493,6 +494,7 @@ The solutions are in python, java, c and c++.
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0023-merge-k-sorted-lists) |
 | [0506-relative-ranks](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0506-relative-ranks) |
+| [0744-network-delay-time](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0744-network-delay-time) |
 | [0948-sort-an-array](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0948-sort-an-array) |
 ## Combinatorics
 |  |
@@ -535,6 +537,7 @@ The solutions are in python, java, c and c++.
 | [0322-coin-change](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0322-coin-change) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0744-network-delay-time](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0744-network-delay-time) |
 | [0813-all-paths-from-source-to-target](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0813-all-paths-from-source-to-target) |
 | [1036-rotting-oranges](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1036-rotting-oranges) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
@@ -544,6 +547,7 @@ The solutions are in python, java, c and c++.
 | ------- |
 | [0207-course-schedule](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0210-course-schedule-ii) |
+| [0744-network-delay-time](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0744-network-delay-time) |
 | [0813-all-paths-from-source-to-target](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0813-all-paths-from-source-to-target) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/2171-second-minimum-time-to-reach-destination) |
@@ -587,6 +591,7 @@ The solutions are in python, java, c and c++.
 ## Shortest Path
 |  |
 | ------- |
+| [0744-network-delay-time](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0744-network-delay-time) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Binary Indexed Tree

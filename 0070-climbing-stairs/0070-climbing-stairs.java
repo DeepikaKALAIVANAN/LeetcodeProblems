@@ -1,19 +1,14 @@
 class Solution {
-    public int dfs(int n,int[] dp) {
-     if(n==0 || n==1) return 1;
-
-     if(dp[n]!=0) return dp[n];
-
-    int la=dfs(n-1,dp);
-    int ra=dfs(n-2,dp);
-
-    dp[n]=(la+ra);
-
-    return dp[n];
+    public int cs(int n, int[] dp){
+        if(n == 0) return 1;
+        if(n == 1) return 1;
+        if( dp[n] != 0){
+            return dp[n];
+        }
+        return dp[n] = cs(n - 1, dp) + cs(n - 2, dp);
     }
-   public int climbStairs(int n){
-    int[] dp=new int[n+1];
-    int ans=dfs(n,dp);
-    return ans;
-   }
+    public int climbStairs(int n) {
+        int[] dp = new int[n + 1];
+        return cs(n, dp);
+    }
 }

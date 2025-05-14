@@ -193,6 +193,7 @@ The solutions are in python, java, c and c++.
 | [1741-sort-array-by-increasing-frequency](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/2067-maximum-number-of-points-with-cost) |
+| [2350-find-closest-number-to-zero](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/2350-find-closest-number-to-zero) |
 | [2472-build-a-matrix-with-conditions](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/2472-build-a-matrix-with-conditions) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2727-number-of-senior-citizens](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/2727-number-of-senior-citizens) |

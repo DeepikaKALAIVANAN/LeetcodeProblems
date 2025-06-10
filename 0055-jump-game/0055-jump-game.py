@@ -3,6 +3,6 @@ class Solution:
         i = 0
         reach = 0
         while i < len(nums) and i <= reach:
-            reach = max(reach, i + nums[i])
-            i += 1
+            reach = max(reach, i+nums[i])
+            i+=1
         return i == len(nums)

@@ -174,6 +174,7 @@ The solutions are in python, java, c and c++.
 | [0506-relative-ranks](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0506-relative-ranks) |
 | [0624-maximum-distance-in-arrays](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0624-maximum-distance-in-arrays) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0674-longest-continuous-increasing-subsequence) |
+| [0792-binary-search](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0792-binary-search) |
 | [0948-sort-an-array](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0948-sort-an-array) |
 | [0954-maximum-sum-circular-subarray](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0954-maximum-sum-circular-subarray) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -310,6 +311,7 @@ The solutions are in python, java, c and c++.
 | [0074-search-a-2d-matrix](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0209-minimum-size-subarray-sum) |
+| [0792-binary-search](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0792-binary-search) |
 | [1321-get-equal-substrings-within-budget](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1321-get-equal-substrings-within-budget) |
 ## Divide and Conquer
 |  |

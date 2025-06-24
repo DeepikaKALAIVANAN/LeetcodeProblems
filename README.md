@@ -638,4 +638,8 @@ The solutions are in python, java, c and c++.
 |  |
 | ------- |
 | [1585-the-kth-factor-of-n](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1585-the-kth-factor-of-n) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->

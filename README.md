@@ -44,6 +44,7 @@ The solutions are in python, java, c and c++.
 | [0392-is-subsequence](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0409-longest-palindrome) |
 | [0678-valid-parenthesis-string](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0678-valid-parenthesis-string) |
+| [0782-jewels-and-stones](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0782-jewels-and-stones) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1321-get-equal-substrings-within-budget](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1321-get-equal-substrings-within-budget) |
@@ -230,6 +231,7 @@ The solutions are in python, java, c and c++.
 | [0380-insert-delete-getrandom-o1](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0409-longest-palindrome) |
+| [0782-jewels-and-stones](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/0782-jewels-and-stones) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1207-delete-nodes-and-return-forest](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1207-delete-nodes-and-return-forest) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/DeepikaKALAIVANAN/LeetcodeProblems/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |

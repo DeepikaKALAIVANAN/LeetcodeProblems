@@ -1,8 +1,7 @@
-class Solution(object):
-    def isAnagram(self, s, t):
-        """
-        :type s: str
-        :type t: str
-        :rtype: bool
-        """
-        return sorted(s) == sorted(t)
+class Solution:
+    def isAnagram(self, s: str, t: str) -> bool:
+        if len(s) != len(t):
+            return False
+        smap = Counter(s)
+        tmap = Counter(t)
+        return smap == tmap
